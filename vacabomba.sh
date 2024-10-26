@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "¿Desde que número quieres que empiece?" | cowsay
+echo "¿Desde que número quieres que empiece la cuenta atrás?" | cowsay
 # Esto es un comentario
 read CANTIDAD
 
